@@ -3,8 +3,8 @@ var json_NAPS_9 = {
 "name": "NAPS_9",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "id": null, "ETIQUETA": null, "DOMO_RAIZ": null, "NRO_POSTE": null }, "geometry": { "type": "Point", "coordinates": [ -79.338704472553587, -4.194436060764086 ] } },
-{ "type": "Feature", "properties": { "id": null, "ETIQUETA": null, "DOMO_RAIZ": null, "NRO_POSTE": null }, "geometry": { "type": "Point", "coordinates": [ -79.340013773264758, -4.197989497921274 ] } },
+{ "type": "Feature", "properties": { "id": "9", "ETIQUETA": "N1", "DOMO_RAIZ": "H1D5", "NRO_POSTE": "175412" }, "geometry": { "type": "Point", "coordinates": [ -79.338704472553587, -4.194436060764086 ] } },
+{ "type": "Feature", "properties": { "id": "10", "ETIQUETA": "N2", "DOMO_RAIZ": "H1D5", "NRO_POSTE": "CNT237" }, "geometry": { "type": "Point", "coordinates": [ -79.340021968410895, -4.197980408892013 ] } },
 { "type": "Feature", "properties": { "id": "4", "ETIQUETA": "N4", "DOMO_RAIZ": "H1D4", "NRO_POSTE": "CNT146" }, "geometry": { "type": "Point", "coordinates": [ -79.288188590524427, -4.196253528225767 ] } },
 { "type": "Feature", "properties": { "id": "3", "ETIQUETA": "N3", "DOMO_RAIZ": "H1D4", "NRO_POSTE": "041281" }, "geometry": { "type": "Point", "coordinates": [ -79.29023720049311, -4.194722674088206 ] } },
 { "type": "Feature", "properties": { "id": "2", "ETIQUETA": "N2", "DOMO_RAIZ": "H1D4", "NRO_POSTE": "041285" }, "geometry": { "type": "Point", "coordinates": [ -79.292553738954084, -4.193426065845819 ] } },
