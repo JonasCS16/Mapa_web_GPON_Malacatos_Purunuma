@@ -3,8 +3,6 @@ var json_POSTE_METALICO_2 = {
 "name": "POSTE_METALICO_2",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ -79.330944581001617, -4.186812223125933 ] } },
-{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ -79.331543422357271, -4.186469457369586 ] } },
 { "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ -79.328154275981433, -4.194587538359104 ] } },
 { "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ -79.327947640533978, -4.19424832374512 ] } },
 { "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ -79.327788549525792, -4.193786918684316 ] } },
@@ -30,6 +28,9 @@ var json_POSTE_METALICO_2 = {
 { "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ -79.327383736054927, -4.180385992082967 ] } },
 { "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ -79.327552427382585, -4.179825867386329 ] } },
 { "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ -79.327684088906622, -4.179288311440344 ] } },
-{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ -79.328839213058956, -4.177200662239752 ] } }
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ -79.328839213058956, -4.177200662239752 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ -79.330944581001617, -4.186812223125933 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ -79.331543422357271, -4.186469457369586 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ -79.326897065496183, -4.181375310336119 ] } }
 ]
 }
