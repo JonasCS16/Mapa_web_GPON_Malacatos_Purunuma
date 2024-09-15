@@ -162,6 +162,7 @@ var json_POSTES_CNT_1 = {
 { "type": "Feature", "properties": { "id": null, "ETIQUETA": "CNT146" }, "geometry": { "type": "Point", "coordinates": [ -79.288200493566492, -4.196242281889405 ] } },
 { "type": "Feature", "properties": { "id": null, "ETIQUETA": "CNT145" }, "geometry": { "type": "Point", "coordinates": [ -79.285615163092316, -4.19747036059299 ] } },
 { "type": "Feature", "properties": { "id": null, "ETIQUETA": "CNT144" }, "geometry": { "type": "Point", "coordinates": [ -79.285020248057791, -4.197587079135035 ] } },
-{ "type": "Feature", "properties": { "id": null, "ETIQUETA": "CNT002" }, "geometry": { "type": "Point", "coordinates": [ -79.264100897975126, -4.222262729002811 ] } }
+{ "type": "Feature", "properties": { "id": null, "ETIQUETA": "CNT002" }, "geometry": { "type": "Point", "coordinates": [ -79.264100897975126, -4.222262729002811 ] } },
+{ "type": "Feature", "properties": { "id": null, "ETIQUETA": "CNT136" }, "geometry": { "type": "Point", "coordinates": [ -79.276190595510997, -4.218792886518919 ] } }
 ]
 }
