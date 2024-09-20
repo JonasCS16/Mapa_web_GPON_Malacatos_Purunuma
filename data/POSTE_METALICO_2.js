@@ -30,6 +30,14 @@ var json_POSTE_METALICO_2 = {
 { "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ -79.327684088906622, -4.179288311440344 ] } },
 { "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ -79.328764000162948, -4.17716128126846 ] } },
 { "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ -79.33110558062414, -4.186883947640568 ] } },
-{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ -79.327496147155586, -4.179815557780352 ] } }
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ -79.327496147155586, -4.179815557780352 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ -79.343849726629543, -4.20933813934926 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ -79.3440173110003, -4.210716979739346 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ -79.34428802421462, -4.212876836698249 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ -79.344648975167047, -4.215010975183548 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ -79.344893906170455, -4.216360879032183 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ -79.345216183806485, -4.217685068148454 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ -79.346337709979991, -4.220127741178799 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ -79.346083110647484, -4.22139407127829 ] } }
 ]
 }
